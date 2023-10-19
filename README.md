@@ -1,5 +1,5 @@
 # SORTER, make your computer life better
-Sorter is my one little part for "package" of bigger project to make a computer life better (**MACLE**)
+Sorter is my one little part for "package" of bigger project to make a computer life easier (**MACLE**)
 
 Sorter uses TOML config file to make it to config as simply as possible, however in plans for SORTER are:
 
