@@ -1,3 +1,19 @@
 [config]
-folder = "here place your folder where items will sort (wihtout ending slash ex. /home/vidmo/Desktop not /home/vidmo/Desktop/ )"
-logs = "logs folder, same as folder one :), no ending slash"
+folder = "/home/vidmo/Pulpit/mojglupifolder1"
+logs = "/home/vidmo/Pulpit/Sorter/logs"
+mvcmd = "mv"
+mkdircmd = "mkdir"
+
+[folders]
+music = "Muzyka"
+images = "Zdjecia"
+workfiles = "Pliki robocze"
+txt_files = "Pliki tekstowe"
+word_files = "Word"
+excel_files = "Excel"
+powerpoint_files = "PowerPoint"
+other_files = "Inne pliki"
+
+# mvcmd = "here place your system move files command in ex. mv"
+# mkdircmd = "here place your make directory command in ex. mkdir"
+# If you want to configure sorter for you that config is under your command :)
