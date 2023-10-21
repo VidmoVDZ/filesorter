@@ -14,12 +14,6 @@ If you want to config sorter by yourself it's just simple as it looks for now:
 [config]
 folder = "/home/vidmo/Pulpit/myFolder" # folder where the sorter will work on
 logs = "/home/vidmo/Pulpit/KRET/logs" # logs files location (where the logs stored)
-
-# Ignore that section below (it will be changed)
-[filetypes]
-music = [ "mp3" ] # list of music file extensions like .mp3 .ogg etc
-text = [ "txt" ]
-images = [ "jpg", "jpeg", "png", "bmp" ]
 ```
   Have a good day/night.
   
