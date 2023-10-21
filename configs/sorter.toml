@@ -1,8 +1,3 @@
 [config]
-folder = "/home/vidmo/Pulpit/myFolder"
-logs = "/home/vidmo/Pulpit/KRET/logs"
-
-[filetypes]
-music = [ "mp3" ]
-text = [ "txt" ]
-images = [ "jpg", "jpeg", "png", "bmp" ]
+folder = "/home/vidmo/Pulpit/mojglupifolder"
+logs = "/home/vidmo/Pulpit/Sorter/logs"
